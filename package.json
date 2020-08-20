@@ -166,7 +166,7 @@
     "array-flatten": "^2.1.1",
     "balanced-match": "^1.0.0",
     "async": "^2.6.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.1",
     "brace-expansion": "^1.1.11",
     "body-parser": "^1.18.3",
